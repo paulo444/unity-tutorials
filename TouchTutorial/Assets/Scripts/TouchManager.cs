@@ -19,10 +19,10 @@ public class TouchManager : MonoBehaviour
         //phasesExample();
 
         //Example 2
-        //moveMainObject();
+        moveMainObject();
 
         //Example 3
-        verifyMovement();
+        //verifyMovement();
     }
 
     void phasesExample()
