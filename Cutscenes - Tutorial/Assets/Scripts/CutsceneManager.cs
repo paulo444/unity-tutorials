@@ -9,7 +9,7 @@ public class CutsceneManager : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.A))
+        if(Input.GetKeyDown(KeyCode.J))
         {
             playableDirector.Play();
         }
